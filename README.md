@@ -20,3 +20,8 @@ Evaluating a Linear Regression Model: https://www.ritchieng.com/machine-learning
 SunQi Regression Model: https://github.com/susanqisun/DAV-6150/blob/master/assignments/M2/Q_Sun_M2_assn.ipynb
 
 Good Machine Learning website: https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
+
+
+
+
+M7---Predict Mortgate
