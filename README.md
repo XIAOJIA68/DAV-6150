@@ -25,3 +25,11 @@ Good Machine Learning website: https://www.ritchieng.com/machine-learning-evalua
 
 
 M7---Predict Mortgate
+
+Module 10: Naive Bayes Classifiers
+
+Module 11: Decision Trees & Random Forests
+
+Module 12: Gradient Descent & Gradient Boosting¶
+
+Module 13: Neural Networks¶
