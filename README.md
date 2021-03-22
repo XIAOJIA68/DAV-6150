@@ -22,6 +22,7 @@ SunQi Regression Model: https://github.com/susanqisun/DAV-6150/blob/master/assig
 Good Machine Learning website: https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
 
 
+Module 3: Feature Engineering + Data Preparation
 
 
 M7---Predict Mortgate
